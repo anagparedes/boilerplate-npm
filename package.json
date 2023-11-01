@@ -14,6 +14,7 @@
 	"author":"Ana Paredes",
 	"description": "This is a description",
 	"keywords": ["npm", "learning", "freecodecamp", "package-json"],
-	"license": "MIT"
+	"license": "MIT",
+	"version": "1.0.0"
 
 }
