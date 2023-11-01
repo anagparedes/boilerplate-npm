@@ -12,6 +12,7 @@
 		"url": "https://idontknow/todo.git"
 	},
 	"author":"Ana Paredes",
-	"description": "This is a description"
+	"description": "This is a description",
+	"keywords": ["npm", "learning", "freecodecamp", "package-json"]
 
 }
