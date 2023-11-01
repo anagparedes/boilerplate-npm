@@ -1,22 +1,20 @@
 {
-	"author":"Ana Paredes",
-	"description": "This is a description",
 	"name": "fcc-learn-npm-package-json",
-	"keywords": ["npm", "learning", "freecodecamp", "package-json"],
-	"dependencies": {
-		"freecodecamp/example": "1.1.0",
-		"express": "^4.14.0"
-	},
+	"author":"Ana Paredes",
 	"main": "server.js",
+	"keywords": ["npm", "learning", "freecodecamp", "package-json"],
+	"license": "MIT",
+	"version": "1.0.0",
+  "dependencies":{
+    "@freecodecamp/example" : "1.1.0",
+    "express":"1.1.0"
+	},
+	"description": "This is a description",
 	"scripts": {
 		"start": "node server.js"
 	},
 	"repository": {
 		"type": "git",
 		"url": "https://idontknow/todo.git"
-	},
-	
-	"license": "MIT",
-	"version": "1.0.0"
-
+	}
 }
