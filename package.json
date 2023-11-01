@@ -1,5 +1,8 @@
 {
+	"author":"Ana Paredes",
+	"description": "This is a description",
 	"name": "fcc-learn-npm-package-json",
+	"keywords": ["npm", "learning", "freecodecamp", "package-json"],
 	"dependencies": {
 		"@freecodecamp/example": "1.1.0",
 		"express": "^4.14.0"
@@ -12,9 +15,7 @@
 		"type": "git",
 		"url": "https://idontknow/todo.git"
 	},
-	"author":"Ana Paredes",
-	"description": "This is a description",
-	"keywords": ["npm", "learning", "freecodecamp", "package-json"],
+	
 	"license": "MIT",
 	"version": "1.0.0"
 
