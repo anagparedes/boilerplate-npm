@@ -11,6 +11,7 @@
 		"type": "git",
 		"url": "https://idontknow/todo.git"
 	},
-	"author":"Ana Paredes"
+	"author":"Ana Paredes",
+	"description": "This is a description"
 
 }
