@@ -6,8 +6,8 @@
 	"license": "MIT",
 	"version": "1.0.0",
   "dependencies":{
-    "@freecodecamp/example" : "1.1.0",
-    "express":"1.1.0"
+	  "express":"1.1.0",
+	  "@freecodecamp/example" : "1.1.0"
 	},
 	"description": "This is a description",
 	"scripts": {
